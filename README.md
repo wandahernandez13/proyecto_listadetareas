@@ -25,7 +25,7 @@ styles/styles.js → Archivo de estilos.
 
 Instalación y Ejecución
 
-Clonar el repositorio: git clone https://github.com/wandahernandez13/proyecto_listadetareas.git cd ListaDeTareas
+Clonar el repositorio: git clone https://github.com/wandahernandez13/proyecto_listadetareas.git cd \Proyectos_App\ListaDeTareas>
 
 Instalar dependencias: npm install
 
