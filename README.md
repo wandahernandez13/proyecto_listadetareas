@@ -7,7 +7,7 @@ Funcionalidades
 ✅ Organizar tareas por categorías. 
 ✅ Administrar categorías (agregar y eliminar). 
 ✅ Marcar tareas como completadas. 
-✅ Soporte para modo oscuro.
+
 
 Estructura del Proyecto
 
